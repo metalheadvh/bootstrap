@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+#navbar {
+  padding: 2rem;
+}
+
+.container .h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.box {
+  width: 500px;
+  height: 500px;
+}
+.card-body {
+  text-align: center;
+}
+
+#footer {
+  padding: 2rem;
+}
